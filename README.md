@@ -1,4 +1,4 @@
-# 🇮🇷 Iran Provinces Game
+# 🇮🇷 Iran's Provinces Game
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Turtle](https://img.shields.io/badge/Turtle-Graphics-green)
